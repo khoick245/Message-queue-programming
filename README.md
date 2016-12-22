@@ -1,5 +1,6 @@
 # Message-queue-programming
 CECS 326 - CSULB - Ratana Ngo
+
 Objectives: Interprocess communication and basic process coordination
 Design & implement a "data center". Processes can store data & later retrieve it. A data center allows
 client program to send data to be stored until it is needed later. When a client needs some data, the
